@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+=======
+body{
+    background-image:url("https://i.pinimg.com/736x/d1/2d/10/d12d10d136e57bf48bee776e84004f60.jpg"); 
+    background-size:1000px ;
+    
+}
+header{
+    padding: 10px;
+    text-align: center;
+    font-family:'Pixel Emulator', monospace;
+    font-size: 40px;
+    color:aliceblue;
+}
+li{
+    background-color: azure;
+    width: 500px;
+    height: 720px;
+}
+img{
+    width: 150px;
+    height: 250px;
+}
+>>>>>>> 7f4f73f4bb4f9829b7e976a10623e04ce68f72b0
